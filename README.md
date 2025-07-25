@@ -4,13 +4,13 @@ Click the links to find more in depth of what i have done.
 
 # Games
 
- ShellScape (8 weeks project) << Click here for more info.
+[ShellScape (8 weeks project)](https://github.com/Spacestarz/Portfolio/tree/main/Shellscape)) << Click here for more info.
 * Itch.io [link](https://yrgo-game-creator.itch.io/shellscape)
 
 <img src="Images/JoeMantis.png" width="500" height = "400">
 
 
-
+---
 * SnowBlind (8 weeks project)
 * Itch.io [link](https://yrgo-game-creator.itch.io/snow)
  
