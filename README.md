@@ -11,6 +11,14 @@ Click the links to find more in depth of what i have done.
 
 
 ---
-* SnowBlind (8 weeks project)
+<img src="Images/Snow Blind.png" width="500" height = "400">
+
+[SnowBlind (8 weeks project)](https://github.com/Spacestarz/Portfolio/tree/main/Snowblind) << Click here for more info.
+
+
 * Itch.io [link](https://yrgo-game-creator.itch.io/snow)
+
+
+
+
  
