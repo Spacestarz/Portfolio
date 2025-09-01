@@ -24,6 +24,6 @@
   ---
 
   Other things i made: 
+  * Items (itemsdata etc) and helped in other script here and there.
   * Pages
-  * Items (itemsdata etc) 
 
