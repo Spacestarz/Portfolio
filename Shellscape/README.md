@@ -1,13 +1,12 @@
 # My contribution to Shellscape
 
+# Sea urchins & Spikes
 
-# Sea urchins
+- Made sea urchin spawn when boss make shockwave. Also that player take damage from the urchin, and disappear when collision with player
 
-Made sea urchin spawn when boss make shockwave. Also that player take damage from the urchin, and disappear when collision with player
+- Made crowd projectile which then turned spikes. Spawn in a area around the player and after while the player take damage. 
 
-# Spikes
-
-Made crowd projectile which then turned into spike thing. Spawn in a area around the player and after while the player take damage. 
+<img src="Images&Gifs/shellscape, shockwave,urchin,spike.gif" width="500">
 
 
 # High Score
