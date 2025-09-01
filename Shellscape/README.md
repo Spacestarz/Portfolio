@@ -13,6 +13,14 @@
 # High Score
 When the player starts the game a timer starts and ends when the player has defeated the boss. If the player is in the top 5 they can write their name and it will end up in the high score list in the menu. 
 
+<table>
+  <tr>
+    <td><img src="Images&Gifs/HSmainShell.png" width="400"></td>
+    <td><img src="Images&Gifs/newhighscoreshell.png" width="400"></td>
+  </tr>
+</table>
+
+
 # Other
 ---
 I also helped a lot in other script where everyone contributed. 
