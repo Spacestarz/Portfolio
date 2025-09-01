@@ -6,8 +6,9 @@
 
 - Made crowd projectile which then turned spikes. Spawn in a area around the player and after while the player take damage. 
 
-<img src="Images&Gifs/shellscape, shockwave,urchin,spike.gif" width="500">
-
+<p align="center">
+  <img src="Images&Gifs/shellscape, shockwave,urchin,spike.gif" width="500">
+</p>
 
 # High Score
 When the player starts the game a timer starts and ends when the player has defeated the boss. If the player is in the top 5 they can write their name and it will end up in the high score list in the menu. 
