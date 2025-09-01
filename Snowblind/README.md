@@ -2,7 +2,10 @@
 
 <strong>Inventory, items and interaction system. </strong>
 
-<img src="images/FM_FoodTutorial.gif" width="500">
+
+<p align="center">
+  <img src="images/FM_FoodTutorial.gif" width="500">
+</p>
 
 * I made the interaction promt
 * Made so the player is able to pick up and down items.
