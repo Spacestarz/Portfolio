@@ -22,7 +22,7 @@
 
  <p align = "center" >  <strong>  Check Point: </strong> </p>
  
-* Made a checkpoint system for the player when they sleep in a tent. So if they quit the game(or die ingame) i save so they will spawn in the tent.
+* Made a checkpoint system for the player when they sleep in a tent. So if they quit the game(or die ingame) i save so they will right next to the tent that they slept in.
 
   ---
 
