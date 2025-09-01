@@ -16,8 +16,6 @@ When the player starts the game a timer starts and ends when the player has defe
 # Other
 ---
 I also helped a lot in other script where everyone contributed. 
-I helped a lot in the harpoon shooting, harpoon detect collision and a but of everything
+I helped a lot in the harpoon shooting, harpoon detect collision and a bit of everything
 
-Helped with the harpoon shooting (many have been in that script)
-
-When harpoon detects collision stays(many have been in that script)
+I also started and made a few attacks for the second boss but we realized that we wouldn't have time to implement it. 
