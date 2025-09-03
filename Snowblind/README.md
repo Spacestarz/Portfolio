@@ -4,6 +4,8 @@ Snowblind is a survival and exploration game.
 
 Unravel the mystery of this icy wasteland as you chase a team of researchers always just beyond your grasp.
 
+* Itch.io [link](https://yrgo-game-creator.itch.io/snow)
+
 <p align="center">
   <strong>Inventory, items and interaction system. </strong>
 </p>
