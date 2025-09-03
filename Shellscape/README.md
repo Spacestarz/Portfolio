@@ -11,10 +11,13 @@ When we made the boss fight we realized that a lot of people just stood in place
 - I made the sea urching spawn, player take damage and that the sea urching will disappear so it wont be sea urchin over the whole arena after while.
 - Made the spikes spawn from the ground.
   Spikes will spawn in a area around the player and if the player won't move out of the area a spike will come up from the ground and damage the player. 
+<table>
+  <tr>
+    <td><img src="Images&Gifs/Spike shell.png"" width="400"></td>
+    <td><img src="Images&Gifs/sea urchin.png" width="400"></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="Images&Gifs/shellscape, shockwave,urchin,spike.gif" width="500">
-</p>
 
 # High Score
 When the player starts the game a timer starts and ends when the player has defeated the boss. If the player is in the top 5 they can write their name and it will end up in the high score list in the menu. 
