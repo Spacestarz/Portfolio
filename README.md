@@ -30,8 +30,8 @@ Step into the ring in an intense underwater boss fight against Joe Mantis, the S
 |------------|-----------------------------|
 | **Engine**   | Unreal Engine             |
 | **Genre**    | Survival / explore     |
- 
 
+Survive a merciless frozen world where the cold can claim you within minutes. One wrong move, losing your way, or neglecting to eat could mean your downfall.
 
 * Itch.io [link](https://yrgo-game-creator.itch.io/snow)
 
