@@ -48,7 +48,7 @@ Shoot and slash your way to victory!
 - Was responsible of the inventory system.
 - Save system so the player can return where they were before(after quitting the game or dying).
 - Made so items dropped will be saved so they will be there they got dropped.
-- Was around in a lot of other places also and helped.
+- I helped around in the project in different script as a everyman to help whenever it was needed. 
 - More info in the link below 
 
 [SnowBlind (8 weeks project)](https://github.com/Spacestarz/Portfolio/tree/main/Snowblind) << Click here for more info.
