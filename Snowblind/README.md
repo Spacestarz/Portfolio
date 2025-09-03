@@ -1,5 +1,9 @@
 #  <p align="center"> My contribution to Snowblind      </p>
 
+Snowblind is a survival and exploration game. 
+
+Unravel the mystery of this icy wasteland as you chase a team of researchers always just beyond your grasp.
+
 <p align="center">
   <strong>Inventory, items and interaction system. </strong>
 </p>
@@ -8,7 +12,7 @@
   <img src="images/FM_FoodTutorial.gif" width="500">
 </p>
 
-* I made the interaction promt. 
+* I made the interaction promt that shows up when near and item and shows what the item is called. 
 * Made so the player is able to pick up and down items.
 * In the inventory squares you can also see how many you have in each inventory slot. 
 --- 
@@ -16,7 +20,7 @@
  
 * I save so when the player pick up an item that it wont be in the world again if they die or quit the game.
 * Same if they drop an item it will be in the same spot where they left it.
-* I made more smaller save like if they have seen the tutorials they wont show up again also the intro texts if they have already seen it they wont see it again.  
+* I made more smaller save like if they have seen the tutorials they won't show up again also the intro texts if they have already seen it they wont see it again.  
 
 -----
 
@@ -28,5 +32,5 @@
 
   Other things i made: 
   * Items (itemsdata etc) and helped in other script here and there.
-  * Pages
+  * Pages that are out in the world that the player can collect for more lore. 
 
