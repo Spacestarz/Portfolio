@@ -5,6 +5,17 @@ Click the links to find more in depth of what i have done.
 # Games
 
 [ShellScape (8 weeks project)](https://github.com/Spacestarz/Portfolio/tree/main/Shellscape)) << Click here for more info.
+
+
+ 
+ |  Shellscape   |        |
+|------------|-----------------------------|
+| **Engine**   | Unity             |
+| **Genre**    | FPS / slasher ?       |
+ 
+
+Step into the ring in an intense underwater boss fight against Joe Mantis, the Shrimp Champion of the Pacific
+
 * Itch.io [link](https://yrgo-game-creator.itch.io/shellscape)
 
 <img src="Images/JoeMantis.png" width="500" height = "400">
@@ -14,6 +25,12 @@ Click the links to find more in depth of what i have done.
 <img src="Images/Snow Blind.png" width="500" height = "400">
 
 [SnowBlind (8 weeks project)](https://github.com/Spacestarz/Portfolio/tree/main/Snowblind) << Click here for more info.
+
+ |  SnowBlind   |        |
+|------------|-----------------------------|
+| **Engine**   | Unreal Engine             |
+| **Genre**    | Survival / explore     |
+ 
 
 
 * Itch.io [link](https://yrgo-game-creator.itch.io/snow)
