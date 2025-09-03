@@ -3,6 +3,8 @@
 Shellscape is a aquatic fps hack n slash hybrid in a aquatic setting. Where you will need to take the boss Joe Mantis.
 You will need to beware of your surrounding and take down Joe Mantis as fast as possible to get in the high score list. 
 
+I also got the privilege to be the team leader of this project. 
+
 # Sea urchins & Spikes
 
 When we made the boss fight we realized that a lot of people just stood in place and dident need to move at all. So we added Sea urchins and spikes that spawn and so the player need to move and also beware of their surrounding while fighting the boss
