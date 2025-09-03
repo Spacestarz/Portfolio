@@ -5,6 +5,8 @@ You will need to beware of your surrounding and take down Joe Mantis as fast as 
 
 I also got the privilege to be the team leader of this project. 
 
+ Itch.io [link](https://yrgo-game-creator.itch.io/shellscape)
+
 # Sea urchins & Spikes
 
 When we made the boss fight we realized that a lot of people just stood in place and didn't need to move at all. So we added Sea urchins and spikes that spawn and so the player need to move and also beware of their surrounding while fighting the boss
