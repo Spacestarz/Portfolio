@@ -24,11 +24,18 @@ Shoot and slash your way to victory!
 
 * Itch.io [link](https://yrgo-game-creator.itch.io/shellscape)
 
-<img src="Images/JoeMantis.png" width="500" height = "400">
+<a href="[https://example.com](https://github.com/Spacestarz/Portfolio/tree/main/Shellscape)">
+  <img src="Images/JoeMantis.png" alt="Joe Mantis" height="400">
+</a>
+
 
 
 ---
-<img src="Images/Snow Blind.png" width="500" height = "400">
+
+<a href="[https://example.com](https://github.com/Spacestarz/Portfolio/tree/main/Snowblind)">
+  <img src="Images/Snow Blind.png" width="500" height = "400">
+</a>
+
 
 [SnowBlind (8 weeks project)](https://github.com/Spacestarz/Portfolio/tree/main/Snowblind) << Click here for more info.
 
