@@ -1,5 +1,9 @@
 # Sam Romell Portfolio.
 Welcome to my portfolio. Here i will show off what kind of projects i've been a part of.
+
+I am a student at yrgo as a Game Creator Programmer. 
+
+
 Click the links to find more in depth of what i have done. 
 
 # Games
@@ -12,6 +16,7 @@ Click the links to find more in depth of what i have done.
 |------------|-----------------------------|
 | **Engine**   | Unity             |
 | **Genre**    | FPS / slasher ?       |
+| **My Role**    |Programmer and team leader      |
  
 
 Step into the ring in an intense underwater boss fight against Joe Mantis, the Shrimp Champion of the Pacific
@@ -30,6 +35,7 @@ Step into the ring in an intense underwater boss fight against Joe Mantis, the S
 |------------|-----------------------------|
 | **Engine**   | Unreal Engine             |
 | **Genre**    | Survival / explore     |
+| **My Role**    |Programmer     |
 
 Survive a merciless frozen world where the cold can claim you within minutes. One wrong move, losing your way, or neglecting to eat could mean your downfall.
 
