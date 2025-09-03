@@ -34,7 +34,7 @@ Shoot and slash your way to victory!
 
 ---
 
-<a href="[https://github.com/Spacestarz/Portfolio/tree/main/Snowblind]">
+<a href="https://github.com/Spacestarz/Portfolio/tree/main/Snowblind">
   <img src="Images/Snow Blind.png" width="500" height = "400">
 </a>
 
