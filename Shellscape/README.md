@@ -5,6 +5,8 @@ You will need to beware of your surrounding and take down Joe Mantis as fast as 
 
 I also got the privilege to be the team leader of this project. 
 
+I also had a big role as a everyman and contributed all around. 
+
  Itch.io [link](https://yrgo-game-creator.itch.io/shellscape)
 
 # Sea urchins & Spikes
