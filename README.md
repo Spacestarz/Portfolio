@@ -24,7 +24,9 @@ Shoot and slash your way to victory!
 
 * Itch.io [link](https://yrgo-game-creator.itch.io/shellscape)
 
-<a href="[https://github.com/Spacestarz/Portfolio/tree/main/Shellscape]">
+
+
+<a href="https://github.com/Spacestarz/Portfolio/tree/main/Shellscape">
   <img src="Images/JoeMantis.png" alt="Joe Mantis" height="400">
 </a>
 
