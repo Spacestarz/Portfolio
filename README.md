@@ -11,7 +11,7 @@ Click the links to find more in depth of what i have done.
 I was the project leader of this project.
 - Made so the player was forced to move by adding damaging object on the ground so they need to move.
   
-I helped around whenever it was needed in other scripts also.
+I also took a big role as a everyman by fixing around in scripts and helping whenever it was needed.
 
 - More info in the link below 
 
