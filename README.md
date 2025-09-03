@@ -19,7 +19,8 @@ Click the links to find more in depth of what i have done.
 | **My Role**    |Programmer and team leader      |
  
 
-Step into the ring in an intense underwater boss fight against Joe Mantis, the Shrimp Champion of the Pacific
+Step into the ring in an intense underwater boss fight against Joe Mantis, the Shrimp Champion of the Pacific.
+Shoot and slash your way to victory!
 
 * Itch.io [link](https://yrgo-game-creator.itch.io/shellscape)
 
