@@ -1,10 +1,14 @@
 # My contribution to Shellscape
 
+Shellscape is a aquatic fps hack n slash hybrid in a aquatic setting. Where you will need to take the boss Joe Mantis.
+You will need to beware of your surrounding and take down Joe Mantis as fast as possible to get in the high score list. 
+
 # Sea urchins & Spikes
 
-- Made sea urchin spawn when boss make shockwave. Also that player take damage from the urchin, and disappear when collision with player
-
-- Made crowd projectile which then turned spikes. Spawn in a area around the player and after while the player take damage. 
+When we made the boss fight we realized that a lot of people just stood in place and dident need to move at all. So we added Sea urchins and spikes that spawn and so the player need to move and also beware of their surrounding while fighting the boss
+- I made the sea urching spawn, player take damage and that the sea urching will disappear so it wont be sea urchin over the whole arena after while.
+- Made the spikes spawn from the ground.
+  Spikes will spawn in a area around the player and if the player won't move out of the area a spike will come up from the ground and damage the player. 
 
 <p align="center">
   <img src="Images&Gifs/shellscape, shockwave,urchin,spike.gif" width="500">
