@@ -33,6 +33,7 @@ Unravel the mystery of this icy wasteland as you chase a team of researchers alw
   ---
 
   Other things i made: 
-  * Items (itemsdata etc) and helped in other script here and there.
+  * Items (itemsdata etc).
+  * Supporter: Supported in the project and assisted wherever it was needed and if something needed fixing. 
   * Pages that are out in the world that the player can collect for more lore. 
 
