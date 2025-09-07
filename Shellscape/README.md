@@ -1,6 +1,6 @@
 # My contribution to Shellscape
 
-Shellscape is a aquatic fps hack n slash hybrid in a aquatic setting. Where you will need to take the boss Joe Mantis.
+Shellscape is an aquatic fps hack n slash hybrid in a aquatic setting. The objective is to kill the boss, Joe Mantis.
 You will need to beware of your surrounding and take down Joe Mantis as fast as possible to get in the high score list. 
 
 I also got the privilege to be the team leader of this project. 
