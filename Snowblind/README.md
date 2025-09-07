@@ -20,10 +20,12 @@ Unravel the mystery of this icy wasteland as you chase a team of researchers alw
 --- 
  <p align = "center" >  <strong>  Save System: </strong> </p>
  
-* I save so when the player pick up an item that it wont be in the world again if they die or quit the game.
+  Save system functions: 
+ 
+* When the player pick up an item that it won't be in the world again if they die or quit the game.
 * I made sure in the save system to make so picked up items won't respawn if the player quit the game or after death.
 * Same if they drop an item it will be in the same spot where they left it.
-* I made more smaller save like if they have seen the tutorials they won't show up again also the intro texts if they have already seen it they wont see it again.
+* I made more smaller save functionality like if they have seen the tutorials they won't show up again also the intro texts if they have already seen it they wont see it again.
 * I also made smaller functionalities in the game such as:
 
   If the intro text has been seen or not.
@@ -40,8 +42,9 @@ Unravel the mystery of this icy wasteland as you chase a team of researchers alw
 
   ---
 
-  Other things i made: 
+  Additional contribution: 
   * Items (itemsdata etc).
   * Supporter: Supported in the project and assisted wherever it was needed and if something needed fixing. 
-  * Pages that are out in the world that the player can collect for more lore. 
+  * Pages that are out in the world that the player can collect for more lore.
+    
 
