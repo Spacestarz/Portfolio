@@ -5,14 +5,14 @@ You will need to beware of your surrounding and take down Joe Mantis as fast as 
 
 I also got the privilege to be the team leader of this project. 
 
-I also had a big role as a everyman and contributed all around. 
+I also had a role as a support where i helped around in the project where it was needed.
 
  Itch.io [link](https://yrgo-game-creator.itch.io/shellscape)
 
 # Sea urchins & Spikes
 
 When we made the boss fight we realized that a lot of people just stood in place and didn't need to move at all. So we added Sea urchins and spikes that spawn and so the player need to move and also beware of their surrounding while fighting the boss
-- I made the sea urching spawn, player take damage and that the sea urching will disappear so it wont be sea urchin over the whole arena after while.
+- I made the sea urchin spawn, the player will take damage and then the sea urching will disappear. So that it won't be sea urchins over the whole area after awhile.
 - Made the spikes spawn from the ground.
   Spikes will spawn in a area around the player and if the player won't move out of the area a spike will come up from the ground and damage the player. 
 <table>
@@ -36,7 +36,5 @@ When the player starts the game a timer starts and ends when the player has defe
 
 # Other
 ---
-I also helped a lot in other script where everyone contributed. 
-I was a bit of everywhere. 
 
 I also started and made a few attacks for the second boss but we realized that we wouldn't have time to implement it. 
