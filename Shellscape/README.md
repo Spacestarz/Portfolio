@@ -11,7 +11,7 @@ I also had a role as a support where i helped around in the project where it was
 
 # Sea urchins & Spikes
 
-When we made the boss fight we realized that a lot of people just stood in place and didn't need to move at all. So we added Sea urchins and spikes that spawn and so the player need to move and also beware of their surrounding while fighting the boss
+When we made the boss fight we realized that a lot of playtesters just stood in place and didn't need to move at all when fighting our boss. So we added Sea urchins and spikes that spawn and so the player need to move and also beware of their surrounding while fighting the boss
 - I made the sea urchin spawn, the player will take damage and then the sea urching will disappear. So that it won't be sea urchins over the whole area after awhile.
 - Made the spikes spawn from the ground.
   Spikes will spawn in a area around the player and if the player won't move out of the area a spike will come up from the ground and damage the player. 
