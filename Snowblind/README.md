@@ -14,15 +14,20 @@ Unravel the mystery of this icy wasteland as you chase a team of researchers alw
   <img src="images/FM_FoodTutorial.gif" width="500">
 </p>
 
-* I made the interaction promt that shows up when near and item and shows what the item is called. 
-* Made so the player is able to pick up and down items.
-* In the inventory squares you can also see how many you have in each inventory slot. 
+* I made the interaction promt that shows up when near an item and shows what the item is called, when the player is nearby. 
+* Made so item pickup and drop functionality is in the game.
+* In the inventory squares you can also see how many of each item you have in each inventory slot. 
 --- 
  <p align = "center" >  <strong>  Save System: </strong> </p>
  
 * I save so when the player pick up an item that it wont be in the world again if they die or quit the game.
+* I made sure in the save system to make so picked up items won't respawn if the player quit the game or after death.
 * Same if they drop an item it will be in the same spot where they left it.
-* I made more smaller save like if they have seen the tutorials they won't show up again also the intro texts if they have already seen it they wont see it again.  
+* I made more smaller save like if they have seen the tutorials they won't show up again also the intro texts if they have already seen it they wont see it again.
+* I also made smaller functionalities in the game such as:
+  If the intro text has been seen or not.
+  Has the tutorial played
+  That this is also in the save system so the player won't need to see it everytime they start the game or after death. 
 
 -----
 
