@@ -11,7 +11,7 @@ Click the links to find more in depth of what i have done.
 I was the project leader of this project.
 - Made so the player was forced to move by adding damaging object on the ground so they need to move.
   
-I also took a big role as a everyman by fixing around in scripts and helping whenever it was needed.
+I also took a big role as a supportmanager role by fixing around in scripts and helping the team wherever it was needed.
 
 - More info in the link below 
 
@@ -48,7 +48,7 @@ Shoot and slash your way to victory!
 - Was responsible of the inventory system.
 - Save system so the player can return where they were before(after quitting the game or dying).
 - Made so items dropped will be saved so they will be there they got dropped.
-- I helped around in the project in different script as a everyman to help whenever it was needed. 
+- I was also a support to the team by helping whenever it was needed in scripts.  
 - More info in the link below 
 
 [SnowBlind (8 weeks project)](https://github.com/Spacestarz/Portfolio/tree/main/Snowblind) << Click here for more info.
