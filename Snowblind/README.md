@@ -26,9 +26,10 @@ Unravel the mystery of this icy wasteland as you chase a team of researchers alw
 * I made more smaller save like if they have seen the tutorials they won't show up again also the intro texts if they have already seen it they wont see it again.
 * I also made smaller functionalities in the game such as:
 
-  
   If the intro text has been seen or not.
-  Has the tutorial played
+  
+  Has the tutorial played.
+  
   That this is also in the save system so the player won't need to see it everytime they start the game or after death. 
 
 -----
