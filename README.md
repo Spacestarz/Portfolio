@@ -41,9 +41,7 @@ Shoot and slash your way to victory!
 
 ---
 
-<a href="https://github.com/Spacestarz/Portfolio/tree/main/Snowblind">
-  <img src="Images/Snow Blind.png" width="500" height = "400">
-</a>
+
 
 - Was responsible of the inventory system.
 - Save system so the player can return where they were before(after quitting the game or dying).
@@ -62,6 +60,10 @@ Shoot and slash your way to victory!
 Survive a merciless frozen world where the cold can claim you within minutes. One wrong move, losing your way, or neglecting to eat could mean your downfall.
 
 * Itch.io [link](https://yrgo-game-creator.itch.io/snow)
+
+ <a href="https://github.com/Spacestarz/Portfolio/tree/main/Snowblind">
+  <img src="Images/Snow Blind.png" width="500" height = "400">
+</a>
 
 
 
