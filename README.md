@@ -22,7 +22,7 @@ I also took a big role as a supportmanager role by fixing around in scripts and 
  |  Shellscape   |        |
 |------------|-----------------------------|
 | **Engine**   | Unity             |
-| **Genre**    | FPS / slasher ?       |
+| **Genre**    | FPS hybrid      |
 | **My Role**    |Programmer and team leader      |
  
 
