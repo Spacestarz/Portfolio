@@ -42,6 +42,8 @@ When we made the boss fight during the playtesting we saw that a lot of playtest
 
   ```
 
+</details
+
 
 # High Score
 When the player starts the game a timer starts and ends when the player has defeated the boss. If the player is in the top 5 they can write their name and it will end up in the high score list in the menu. 
