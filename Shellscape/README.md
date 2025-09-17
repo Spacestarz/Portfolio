@@ -56,7 +56,7 @@ When the player starts the game a timer starts and ends when the player has defe
 </table>
 
 <details>
-  <summary> Code when sorting the high score list.    </summary>
+  <summary> Code for sorting the high score list.   </summary>
 
   ```csharp
 
