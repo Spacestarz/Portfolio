@@ -31,7 +31,7 @@ When we made the boss fight during the playtesting we saw that a lot of playtest
  {
      for (int i = 0; i < urchinAmount; i++)
      {
-         //randomPoint
+       
          Vector3 RandomPoint = Random.insideUnitCircle * CircleArea;
 
          Vector3 randomPositionInCircle = new Vector3(Player.transform.position.x + RandomPoint.x, HeightofY, Player.transform.position.z + RandomPoint.y);
