@@ -55,7 +55,46 @@ When the player starts the game a timer starts and ends when the player has defe
   </tr>
 </table>
 
+<details>
+  <summary> Code when sorting the high score list.    </summary>
 
+  ```csharp
+
+public void SortHighScore()
+{
+
+    
+    for (int i = 0; i < bestTimesList.Count - 1; i++)
+    {
+        for (int j = i + 1; j < bestTimesList.Count; j++)
+        {
+            if (bestTimesList[j] < bestTimesList[i])
+            {
+               
+                float tempTime = bestTimesList[i];
+                bestTimesList[i] = bestTimesList[j];
+                bestTimesList[j] = tempTime;
+
+                
+                string tempName = playerNamesList[i];
+                playerNamesList[i] = playerNamesList[j];
+                playerNamesList[j] = tempName;
+            }
+        }
+    }
+
+    if (bestTimesList.Count > 5)
+    {        
+        bestTimesList.RemoveAt(bestTimesList.Count - 1);
+        playerNamesList.RemoveAt(playerNamesList.Count - 1);
+    }
+
+    SaveHighScore();      
+}
+
+  ```
+
+</details
 
 
 # Other
