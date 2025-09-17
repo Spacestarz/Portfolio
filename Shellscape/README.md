@@ -22,6 +22,26 @@ When we made the boss fight during the playtesting we saw that a lot of playtest
   </tr>
 </table>
 
+<details>
+  <summary> Code to spawn sea urching around the player.   </summary>
+
+  ```csharp
+
+ public void SpawnUrchins(int urchinAmount)
+ {
+     for (int i = 0; i < urchinAmount; i++)
+     {
+         //randomPoint
+         Vector3 RandomPoint = Random.insideUnitCircle * CircleArea;
+
+         Vector3 randomPositionInCircle = new Vector3(Player.transform.position.x + RandomPoint.x, HeightofY, Player.transform.position.z + RandomPoint.y);
+         newUrchin = Instantiate(urchinPreFab, randomPositionInCircle, Quaternion.identity);
+         spawnedUrchins.Add(newUrchin);
+     }
+ }
+
+  ```
+
 
 # High Score
 When the player starts the game a timer starts and ends when the player has defeated the boss. If the player is in the top 5 they can write their name and it will end up in the high score list in the menu. 
@@ -32,6 +52,8 @@ When the player starts the game a timer starts and ends when the player has defe
     <td><img src="Images&Gifs/newhighscoreshell.png" width="400"></td>
   </tr>
 </table>
+
+
 
 
 # Other
