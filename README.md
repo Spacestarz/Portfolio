@@ -66,6 +66,20 @@ Survive a merciless frozen world where the cold can claim you within minutes. On
 </a>
 
 
+---
+
+
+- Promt that show up above interactable object also npc’s. It shows the button you need to press to interact with the object / npc.
+- Overhauled an existing mechanic in game. Got to change how it worked and fine tuned.
+- Made a direction arrow that when the other player is out of sight in view that a arrow show ups that point to which direction the other player is.
+- A icon that shows up if the other player is behind a wall.
+- Made a "gated" dialog so if the player don't have the desired item they can't click on a dialog option.
+
+- More info in the link below!
+
+- [Project Solar (6 months intership)](https://github.com/Spacestarz/Portfolio/tree/main/Project%20Solar))) << Click here for more info.
+
+
 
 
  
