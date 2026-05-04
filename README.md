@@ -7,15 +7,14 @@ I am a student at yrgo as a Game Creator Programmer.
 Click the links to find more in depth of what i have done. 
 
 # Games
+---
+# [ShellScape (8 weeks project)](https://github.com/Spacestarz/Portfolio/tree/main/Shellscape) << Click here for more info.
+
 
 I was the project leader of this project.
 - Made so the player was forced to move by adding damaging object on the ground so they need to move.
   
 I also took a big role as a supportmanager role by fixing around in scripts and helping the team wherever it was needed.
-
-- More info in the link below 
-
-[ShellScape (8 weeks project)](https://github.com/Spacestarz/Portfolio/tree/main/Shellscape)) << Click here for more info.
 
 
  
@@ -40,16 +39,14 @@ Shoot and slash your way to victory!
 
 
 ---
-
-
+# [SnowBlind (8 weeks project)](https://github.com/Spacestarz/Portfolio/tree/main/Snowblind) << Click here for more info.
 
 - Was responsible of the inventory system.
 - Save system so the player can return where they were before(after quitting the game or dying).
 - Made so items dropped will be saved so they will be there they got dropped.
 - I was also a support to the team by helping whenever it was needed in scripts.  
-- More info in the link below 
 
-[SnowBlind (8 weeks project)](https://github.com/Spacestarz/Portfolio/tree/main/Snowblind) << Click here for more info.
+
 
  |  SnowBlind   |        |
 |------------|-----------------------------|
@@ -67,7 +64,7 @@ Survive a merciless frozen world where the cold can claim you within minutes. On
 
 
 ---
-
+# [Project Solar](https://github.com/Spacestarz/Portfolio/tree/main/Project%20Solar) << Click here for more info.
 
 - Promt that show up above interactable object also npc’s. It shows the button you need to press to interact with the object / npc.
 - Overhauled an existing mechanic in game. Got to change how it worked and fine tuned.
@@ -75,14 +72,13 @@ Survive a merciless frozen world where the cold can claim you within minutes. On
 - A icon that shows up if the other player is behind a wall.
 - Made a "gated" dialog so if the player don't have the desired item they can't click on a dialog option.
 
-- More info in the link below!
 
-- [Project Solar (6 months intership)](https://github.com/Spacestarz/Portfolio/tree/main/Project%20Solar))) << Click here for more info.
+
 
  |  Project solar   |        |
 |------------|-----------------------------|
 | **Engine**   | Unreal Engine             |
-| **Genre**    | Puzzle, Co op, open world      |
+| **Genre**    | Puzzle, Co op, adventure      |
 | **My Role**    |Programmer       |
 
 
