@@ -15,7 +15,32 @@ I made a direction arrow that when the other player is out of sight in view that
 
 It comes forward with a fade in. And fade outs when the other player comes in sight again. 
 
+<details>
+<summary>Code</summary>
+<img src=https://github.com/Spacestarz/Portfolio/blob/main/Project%20Solar/Images/direction%20arrow/wbp_arrowpoint%20pic01.png >
 
+  <details>
+<summary>Function: get angle and above and lower player pos</summary>
+<img src=https://github.com/Spacestarz/Portfolio/blob/main/Project%20Solar/Images/direction%20arrow/get%20angle%20and%20above%20and%20lower%20player%20pos%20(pic%2001).png >
+<img src=https://github.com/Spacestarz/Portfolio/blob/main/Project%20Solar/Images/direction%20arrow/get%20angle%20and%20above%20and%20lower%20player%20pos%20(pic%2002).png >
+<img src=https://github.com/Spacestarz/Portfolio/blob/main/Project%20Solar/Images/direction%20arrow/get%20angle%20and%20above%20and%20lower%20player%20pos%20(pic%2003).png >
+<img src=https://github.com/Spacestarz/Portfolio/blob/main/Project%20Solar/Images/direction%20arrow/get%20angle%20and%20above%20and%20lower%20player%20pos%20(pic%2004).png >
+</details>
+
+<img src=    >
+<img src=    >
+<img src=    >
+<img src=    >
+<img src=    >
+<img src=    >
+<img src=    >
+<img src=    >
+<img src=    >
+<img src=    >
+<img src=    >
+<img src=    >
+<img src=    >
+</details>
 
 
 
