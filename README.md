@@ -79,11 +79,11 @@ Survive a merciless frozen world where the cold can claim you within minutes. On
 
 - [Project Solar (6 months intership)](https://github.com/Spacestarz/Portfolio/tree/main/Project%20Solar))) << Click here for more info.
 
--  |  Project Solar   |        |
+ |  Project solar   |        |
 |------------|-----------------------------|
 | **Engine**   | Unreal Engine             |
-| **Genre**    | Puzzle, open world, co op    |
-| **My Role**    |Programmer     |
+| **Genre**    | Puzzle, Co op, open world      |
+| **My Role**    |Programmer       |
 
 
 
