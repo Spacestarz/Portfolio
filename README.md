@@ -86,6 +86,10 @@ Survive a merciless frozen world where the cold can claim you within minutes. On
 | **My Role**    |Programmer       |
 
 
+ <a href="https://github.com/Spacestarz/Portfolio/tree/main/Project%20Solar">
+  <img src="Images/FinalMaltaFlyer-1-Framsida.png" width="500" height = "700">
+</a>
+
 
 
  
