@@ -11,6 +11,12 @@ Here you will see what i did during my stay.
 
 # Direction arrow that points to the other player.
 
+I made a direction arrow that when the other player is out of sight in view that a arrow show ups that point to which direction the other player is. 
+
+It comes forward with a fade in. And fade outs when the other player comes in sight again. 
+
+
+
 
 
 # A icon that shows up if the other player is behind a wall
