@@ -27,6 +27,31 @@ It comes forward with a fade in. And fade outs when the other player comes in si
 <img src=https://github.com/Spacestarz/Portfolio/blob/main/Project%20Solar/Images/direction%20arrow/get%20angle%20and%20above%20and%20lower%20player%20pos%20(pic%2004).png >
 </details>
 
+<details>
+<summary>Function: Above get viewport </summary>
+<img src=https://github.com/Spacestarz/Portfolio/blob/main/Project%20Solar/Images/direction%20arrow/above%20get%20viewport.png>
+</details>
+
+<details>
+<summary>Function: Get viewportsize ABOVE </summary>
+<img src=https://github.com/Spacestarz/Portfolio/blob/main/Project%20Solar/Images/direction%20arrow/get%20viewport%20SIZE%20ABOVE.png>
+</details>
+
+<details>
+<summary>Function: Below size viewport (for player 1) </summary>
+<img src=https://github.com/Spacestarz/Portfolio/blob/main/Project%20Solar/Images/direction%20arrow/belowsize%20viewport%20(player%201).png>
+</details>
+
+<details>
+<summary>Function: Get viewport size below </summary>
+<img src=https://github.com/Spacestarz/Portfolio/blob/main/Project%20Solar/Images/direction%20arrow/get%20viewport%20size%20BELOW.png>
+</details>
+
+<details>
+<summary>Function: Screen check </summary>
+<img src=https://github.com/Spacestarz/Portfolio/blob/main/Project%20Solar/Images/direction%20arrow/screencheck.png>
+</details>
+
 <img src=    >
 <img src=    >
 <img src=    >
