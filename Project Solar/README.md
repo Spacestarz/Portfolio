@@ -52,6 +52,8 @@ It comes forward with a fade in. And fade outs when the other player comes in si
 <img src=https://github.com/Spacestarz/Portfolio/blob/main/Project%20Solar/Images/direction%20arrow/screencheck.png>
 </details>
 
+</details>
+
 
 # A icon that shows up if the other player is behind a wall
 
@@ -59,7 +61,7 @@ It comes forward with a fade in. And fade outs when the other player comes in si
 ---
 Hide ui (with a fade effect) 
 
-Clickable dialog onlly if required materiia is collected
+Clickable dialog only if required material is collected
 
 Pip's ui interface bug fixed
 
