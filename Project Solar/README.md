@@ -15,6 +15,8 @@ I made a direction arrow that when the other player is out of sight in view that
 
 It comes forward with a fade in. And fade outs when the other player comes in sight again. 
 
+<img src= https://github.com/Spacestarz/Portfolio/blob/main/Project%20Solar/Images/gif%20version.gif >
+
 <details>
 <summary>Code</summary>
 <img src=https://github.com/Spacestarz/Portfolio/blob/main/Project%20Solar/Images/direction%20arrow/wbp_arrowpoint%20pic01.png >
@@ -56,6 +58,15 @@ It comes forward with a fade in. And fade outs when the other player comes in si
 
 
 # A icon that shows up if the other player is behind a wall
+
+An issue we had was that when the other player was behind a wall the arrow that point toward the other player wouldn't help. 
+
+So I made if a something is in the way to the between the player’s a icon shows up and shows where the other player is. 
+
+<details>
+<summary>Function: Get viewport size below </summary>
+<img src=>
+</details>
 
 
 ---
