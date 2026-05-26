@@ -63,12 +63,6 @@ An issue we had was that when the other player was behind a wall the arrow that 
 
 So I made if a something is in the way to the between the player’s a icon shows up and shows where the other player is. 
 
-<details>
-<summary>Function: Get viewport size below </summary>
-<img src=>
-</details>
-
-
 ---
 Hide ui (with a fade effect) 
 
