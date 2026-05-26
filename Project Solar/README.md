@@ -63,6 +63,11 @@ An issue we had was that when the other player was behind a wall the arrow that 
 
 So I made if a something is in the way to the between the player’s a icon shows up and shows where the other player is. 
 
+
+<img src= https://github.com/Spacestarz/Portfolio/blob/main/Project%20Solar/Images/location_icon/showcase_01.gif >
+
+<img src= https://github.com/Spacestarz/Portfolio/blob/main/Project%20Solar/Images/location_icon/showcase_02.gif >
+
 ---
 Hide ui (with a fade effect) 
 
